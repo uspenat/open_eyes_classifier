@@ -1,1 +1,1 @@
-# open_eyes_classifier
+# open-eyes-сlassifier
